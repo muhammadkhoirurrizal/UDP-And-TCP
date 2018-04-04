@@ -1,0 +1,7 @@
+E:\Tugas\Kuliah\Semester 6\P Fahim\Kedua\UDPTCP\ServerUDPTCP\bin\Debug\ServerUDPTCP.exe.config
+E:\Tugas\Kuliah\Semester 6\P Fahim\Kedua\UDPTCP\ServerUDPTCP\bin\Debug\ServerUDPTCP.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Kedua\UDPTCP\ServerUDPTCP\bin\Debug\ServerUDPTCP.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Kedua\UDPTCP\ServerUDPTCP\obj\Debug\ServerUDPTCP.csprojResolveAssemblyReference.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Kedua\UDPTCP\ServerUDPTCP\obj\Debug\ServerUDPTCP.csproj.CoreCompileInputs.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Kedua\UDPTCP\ServerUDPTCP\obj\Debug\ServerUDPTCP.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Kedua\UDPTCP\ServerUDPTCP\obj\Debug\ServerUDPTCP.pdb
